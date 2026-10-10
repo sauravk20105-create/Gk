@@ -1,0 +1,10 @@
+{
+  "name": "Mayra - Sassy AI Live Voice Assistant",
+  "description": "Zero-touch, real-time bidirectional voice assistant powered by Gemini Live with continuous audio streaming, interruption handling, and sassy persona.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
